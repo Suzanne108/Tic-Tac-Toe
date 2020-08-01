@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe.main;
 
 /**
  * Is able to process user input. Makes relevant changes on the given Board.

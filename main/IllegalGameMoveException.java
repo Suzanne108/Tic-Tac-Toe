@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe.main;
 
 /**
  * IllegalGameMoveException is an exception that will be thrown whenever a user

@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe.main;
 
 /**
  * This class has functionality to create boards given a different representation of a board.

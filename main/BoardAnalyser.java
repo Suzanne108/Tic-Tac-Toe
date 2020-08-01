@@ -1,4 +1,4 @@
-package tictactoe;
+package tictactoe.main;
 
 /**
  * Is given a Board. Can analyse the board to determine the state of the game.
